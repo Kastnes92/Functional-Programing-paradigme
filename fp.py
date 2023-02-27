@@ -54,8 +54,8 @@ print("Task 4:")
 # Sum the total age of persons using this new function 
 # NB! Do not manualy create the age listing
 print("Task 5:")
-totale_age = sum(pairs.values())
-print("Totale age summed: %f" % (totale_age))
+total_age = sum(pairs.values())
+print("Total age summed: %f" % (total_age))
 
 # 6
 # Now create a function average, that returns the average of a list of numbers
